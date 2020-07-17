@@ -229,8 +229,27 @@
           1,
           null
         ]
+      },
+      "/Users/judithpillado/mod2/friday_challenges/b2-mid-mod/spec/models/ride_spec.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          1,
+          2,
+          null,
+          null
+        ]
+      },
+      "/Users/judithpillado/mod2/friday_challenges/b2-mid-mod/app/models/ride.rb": {
+        "lines": [
+          1,
+          1,
+          1,
+          null
+        ]
       }
     },
-    "timestamp": 1595001650
+    "timestamp": 1595002257
   }
 }
