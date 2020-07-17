@@ -235,10 +235,19 @@
           1,
           null,
           1,
-          0,
-          0,
-          0,
+          1,
+          2,
+          2,
           null,
+          null
+        ]
+      },
+      "/Users/judithpillado/mod2/friday_challenges/b2-mid-mod/app/models/mechanic.rb": {
+        "lines": [
+          1,
+          1,
+          1,
+          1,
           null
         ]
       },
@@ -248,7 +257,7 @@
           null,
           1,
           1,
-          1,
+          2,
           null,
           null
         ]
@@ -262,6 +271,6 @@
         ]
       }
     },
-    "timestamp": 1595003741
+    "timestamp": 1595004070
   }
 }
