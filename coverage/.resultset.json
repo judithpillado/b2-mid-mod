@@ -214,8 +214,23 @@
           1,
           null
         ]
+      },
+      "/Users/judithpillado/mod2/friday_challenges/b2-mid-mod/app/models/amusement_park.rb": {
+        "lines": [
+          1,
+          1,
+          1,
+          null
+        ]
+      },
+      "/Users/judithpillado/mod2/friday_challenges/b2-mid-mod/app/models/application_record.rb": {
+        "lines": [
+          1,
+          1,
+          null
+        ]
       }
     },
-    "timestamp": 1595000540
+    "timestamp": 1595001250
   }
 }
