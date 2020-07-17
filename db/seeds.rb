@@ -8,7 +8,7 @@
 sam = Mechanic.create(name: "Sam Mills", years_of_experience: "10")
 kara = Mechanic.create(name: "Kara Smith", years_of_experience: "11")
 
-hershey = AmusementPark.create(name: "Hershey Park", admission_price: 50)
+hershey = AmusementPark.create(name: "Hershey Park", addmission_price: 50)
 
 lightning = Ride.create(name: "Lightning Racer", thrill_rating: 8)
 storm = Ride.create(name: "Storm Runner", thrill_rating: 9)
