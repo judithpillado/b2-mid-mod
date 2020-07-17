@@ -205,7 +205,7 @@
       "/Users/judithpillado/mod2/friday_challenges/b2-mid-mod/config/routes.rb": {
         "lines": [
           1,
-          null,
+          1,
           null
         ]
       },
@@ -304,8 +304,25 @@
           1,
           null
         ]
+      },
+      "/Users/judithpillado/mod2/friday_challenges/b2-mid-mod/app/controllers/mechanics_controller.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          null,
+          null,
+          null
+        ]
+      },
+      "/Users/judithpillado/mod2/friday_challenges/b2-mid-mod/app/controllers/application_controller.rb": {
+        "lines": [
+          1,
+          1,
+          null
+        ]
       }
     },
-    "timestamp": 1595006396
+    "timestamp": 1595006670
   }
 }
