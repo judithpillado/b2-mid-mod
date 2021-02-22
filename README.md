@@ -16,7 +16,7 @@ RSpec and Shoulda-Matchers have been installed and set up.
 
 When you run `bundle exec rspec` you should have 0 tests.
 
-##Overview
+## Overview
 
 We are creating an application to track the maintenance of rides at amusement parks. We have amusement parks, which have many rides, rides can have many mechanics working on it, and mechanics can work on multiple rides.
 
@@ -28,7 +28,8 @@ You will need to create all the migrations. You do not need to do model testing 
 Read each story carefully.
 
 
-###Story 1
+### Story 1
+```
 As a user,
 When I visit a mechanics index page
 I see a header saying “All Mechanics”
@@ -37,9 +38,10 @@ Ex:
              All Mechanics
    Sam Mills - 10 years of experience
    Kara Smith - 11 years of experience
+```
 
-
-###Story 2
+### Story 2
+```
 As a visitor,
 When I visit an amusement park’s show page
 I see the name and price of admissions for that amusement park
@@ -53,9 +55,10 @@ Ex: Hershey Park
           2. Storm Runner
           3. The Great Bear
    Average Thrill Rating of Rides: 7.8/10
+```
 
-
-###Story 3
+### Story 3
+```
 As a user,
 When I go to a mechanics show page
 I see their name, years of experience, and names of all rides they’re working on
@@ -72,6 +75,4 @@ Fahrenheit
 The Kiss Raise
 Add a ride to workload:
 _pretend_this_is_a_textfield_
-
-
-                      Submit
+```
